@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import url('https://fonts.googleapis.com/css?family=Niramit:400,500,700');
+.pages{
+    padding-top: 54px;
+}
+
+app-root{
+font-family: Niramit;
+}
+
+h1{
+    font-weight: 500;
+    font-style: italic;
+}
