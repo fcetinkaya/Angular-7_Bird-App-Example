@@ -1,4 +1,8 @@
-# Angular7Bird
+# Angular 7 - Bird App
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fcetinkaya/Angular7_BirdApp/master/BirdApp.JPG">
+</p>
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0-rc.0.
 
